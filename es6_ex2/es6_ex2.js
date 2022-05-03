@@ -1,3 +1,4 @@
+// Spread operator
 function foo(x, i1, i2, ...args) {
     console.log([x, ...args]);
     return [x, ...args];

@@ -1,3 +1,4 @@
+// Block scope + Arrow function
 const x = 2;
 var fns = [];
 
